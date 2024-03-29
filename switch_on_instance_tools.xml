@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-03-28 10:04:39">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>switch_on_instance_tools</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>a719ad1897510210343db6fce053aff6</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-03-28 10:04:38</sys_created_on>
+<sys_id>924961dc97510210343db6fce053af42</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-03-28 10:04:38</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_fd74ed1897510210343db6fce053af1d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.ui.next_experience.instance_tools_disabled</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-28 09:44:39</sys_created_on><sys_id>fd74ed1897510210343db6fce053af1d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>glide.ui.next_experience.instance_tools_disabled</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_fd74ed1897510210343db6fce053af1d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-28 10:04:13</sys_updated_on><type>boolean</type><value>false</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=fd74ed1897510210343db6fce053af1d"/></record_update>]]></payload>
+<payload_hash>600331269</payload_hash>
+<remote_update_set display_value="switch_on_instance_tools">924961dc97510210343db6fce053af42</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-03-28 10:04:38</sys_created_on>
+<sys_id>d64961dc97510210343db6fce053af42</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e848469c10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-03-28 10:04:38</sys_updated_on>
+<table/>
+<target_name>glide.ui.next_experience.instance_tools_disabled</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>1039ad9cbe510210dc794c7927995c81</update_guid>
+<update_guid_history>1039ad9cbe510210dc794c7927995c81:600331269,3ed5e9984d510210a930e2ed3a011eb3:-451686838,adb425583b5102100c18c3985fd4eb2e:600331269</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
